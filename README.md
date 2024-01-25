@@ -1,0 +1,2 @@
+# random_chance
+predicateのrandom_chanceに関するデータパックサンプルになります。
